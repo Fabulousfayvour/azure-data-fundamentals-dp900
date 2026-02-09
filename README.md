@@ -82,6 +82,20 @@ This learning opportunity was made possible through **Poshlem Institute**, in co
 
 ---
 
+---
+
+### Part of my Cloud Data Engineering learning journey On DP-900
+
+```markdown
+##  Hands-On Labs
+
+- [Provisioning Azure SQL Database](labs/azure-sql-database-provisioning.md)
+- [Provisioning Azure Storage Account](labs/azure-storage-provisioning.md)
+- [Provisioning Azure Cosmos DB](labs/azure-cosmos-db-provisioning.md)
+- [Microsoft Fabric Lakehouse Analytics](labs/microsoft-fabric-lakehouse-analytics.md)
+```
+
+
 ## 📌 Future Plans for This Repo
 
 - Add hands-on Azure labs and demos  
