@@ -58,8 +58,21 @@ The goal of this repository is to consolidate key concepts, notes, and future ha
 
 ## 🎯 Certification Track
 
-- ✅ **DP-900: Microsoft Azure Data Fundamentals** (Completed)  
-- ⏭️ **DP-700: Microsoft Certified: Fabric Data Engineer Associate** (In Progress)
+- ✅ **DP-900: Microsoft Azure Data Fundamentals** (Completed)
+
+### Microsoft DP-900 Badges:
+
+#### [![Introduction to Microsoft Azure Data relational data in Azure](images/dp900-badge.png)](https://learn.microsoft.com/api/achievements/share/en-us/Fabulous360/WVJ3MW4N?sharingId=DE7132413679A786/)
+#### [![Explore relational database services in Azure](images/dp900-badge.png)](https://learn.microsoft.com/api/achievements/share/en-us/Fabulous360/2JUAT2LV?sharingId=DE7132413679A786/)
+#### [![Explore Azure Storage for non-relational data](images/dp900-badge.png)](https://learn.microsoft.com/api/achievements/share/en-us/Fabulous360/DUATVNRJ?sharingId=DE7132413679A786/)
+#### [![Explore fundamentals of Azure Cosmos DB](images/dp900-badge.png)](https://learn.microsoft.com/api/achievements/share/en-us/Fabulous360/NMSRVNDF?sharingId=DE7132413679A786/)
+#### [![Introduction to Microsoft Azure Data non-relational data in Azure](images/dp900-badge.png)](https://learn.microsoft.com/api/achievements/share/en-us/Fabulous360/82JXZ84W?sharingId=DE7132413679A786/)
+#### [![Explore fundamentals of large-scale analytics](images/dp900-badge.png)](https://learn.microsoft.com/api/achievements/share/en-us/Fabulous360/9R4W3V3U?sharingId=DE7132413679A786/)
+#### [![Explore fundamentals of real-time analytics](images/dp900-badge.png)](https://learn.microsoft.com/api/achievements/share/en-us/Fabulous360/CYP8WKD9?sharingId=DE7132413679A786/)
+#### [![Explore fundamentals of data visualization](images/dp900-badge.png)](https://learn.microsoft.com/api/achievements/share/en-us/Fabulous360/9R4WYWQU?sharingId=DE7132413679A786/)
+
+
+#### ⏭️ **DP-700: Microsoft Certified: Fabric Data Engineer Associate** (In Progress)
 
 ---
 
