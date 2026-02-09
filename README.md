@@ -1,4 +1,4 @@
-# Microsoft Azure Data Fundamentals (DP-900) 🚀
+# Microsoft Azure Data Fundamentals (DP-900) 
 
 This repository documents my learning journey through the **Introduction to Microsoft Azure Data (DP-900)** learning path on Microsoft Learn, as part of a **Data Engineering Track (DP-900 & DP-700)**.
 
@@ -6,7 +6,7 @@ The goal of this repository is to consolidate key concepts, notes, and future ha
 
 ---
 
-## 📚 Learning Path Overview
+## Learning Path Overview
 
 ### 1️⃣ Core Data Concepts in Azure
 **Modules:**
@@ -56,7 +56,7 @@ The goal of this repository is to consolidate key concepts, notes, and future ha
 
 ---
 
-## 🎯 Certification Track
+##  Certification Track
 
 - ✅ **DP-900: Microsoft Azure Data Fundamentals** (Completed)
 
